@@ -2274,6 +2274,59 @@ html[data-theme="dark"] .book-option.active {
   min-height: 50px;
 }
 /* Readable contrast and compact local fonts. */
+.explore-list {
+  list-style: none;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 20px;
+}
+.explore-list li {
+  background: var(--paper);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 28px;
+  min-width: 0;
+}
+.explore-list h2 {
+  font-family: var(--serif);
+  font-size: 24px;
+  margin: 8px 0 16px;
+}
+.explore-list p {
+  color: var(--muted);
+  line-height: 1.8;
+}
+.explore-list blockquote {
+  font-family: var(--serif);
+  font-size: 18px;
+  line-height: 1.9;
+  margin: 20px 0;
+}
+.explore-list a {
+  display: inline-block;
+  padding: 12px 0;
+  font-size: 14px;
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+.explore-timeline {
+  grid-template-columns: 1fr;
+  max-width: 760px;
+  margin-inline: auto;
+}
+.main-menu nav {
+  max-height: calc(100dvh - 100px);
+  overflow-y: auto;
+}
+@media (max-width: 640px) {
+  .explore-list {
+    grid-template-columns: 1fr;
+  }
+  .explore-list li {
+    padding: 20px;
+  }
+}
 .background-library {
   margin: 18px 0;
 }

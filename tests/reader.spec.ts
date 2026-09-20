@@ -2,6 +2,29 @@ import { test, expect } from "@playwright/test";
 import { readFile } from "node:fs/promises";
 
 // Desktop and mobile each exercise real browser persistence, navigation and image downloads.
+test("people, events and timeline link to real scripture", async ({ page }) => {
+  for (const route of ["people", "events", "timeline"]) {
+    await page.goto(`/${route}`);
+    await expect(page.locator(".explore-list > li")).toHaveCount(12);
+    await expect(
+      page.locator(".explore-list blockquote").first(),
+    ).not.toBeEmpty();
+    expect(
+      await page.evaluate(
+        () => document.documentElement.scrollWidth <= innerWidth,
+      ),
+    ).toBe(true);
+  }
+  await expect(page.locator("ol.explore-timeline")).toBeVisible();
+  await page.locator(".explore-list a").first().click();
+  await expect(page).toHaveURL(/\/bible\/genesis\/1\/1$/);
+  await page.getByLabel("전체 메뉴", { exact: true }).click();
+  await page.getByRole("link", { name: "성경 인물", exact: true }).click();
+  await expect(
+    page.getByRole("heading", { name: "말씀 속 사람들" }),
+  ).toBeVisible();
+});
+
 test("background library, range recommendations and handwriting exports", async ({
   page,
 }, info) => {
