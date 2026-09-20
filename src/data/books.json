@@ -1,0 +1,530 @@
+[
+  {
+    "book": "genesis",
+    "name": "창세기",
+    "english": "GENESIS",
+    "code": "GEN",
+    "chapters": 50,
+    "testament": "old"
+  },
+  {
+    "book": "exodus",
+    "name": "출애굽기",
+    "english": "EXODUS",
+    "code": "EXO",
+    "chapters": 40,
+    "testament": "old"
+  },
+  {
+    "book": "leviticus",
+    "name": "레위기",
+    "english": "LEVITICUS",
+    "code": "LEV",
+    "chapters": 27,
+    "testament": "old"
+  },
+  {
+    "book": "numbers",
+    "name": "민수기",
+    "english": "NUMBERS",
+    "code": "NUM",
+    "chapters": 36,
+    "testament": "old"
+  },
+  {
+    "book": "deuteronomy",
+    "name": "신명기",
+    "english": "DEUTERONOMY",
+    "code": "DEU",
+    "chapters": 34,
+    "testament": "old"
+  },
+  {
+    "book": "joshua",
+    "name": "여호수아",
+    "english": "JOSHUA",
+    "code": "JOS",
+    "chapters": 24,
+    "testament": "old"
+  },
+  {
+    "book": "judges",
+    "name": "사사기",
+    "english": "JUDGES",
+    "code": "JDG",
+    "chapters": 21,
+    "testament": "old"
+  },
+  {
+    "book": "ruth",
+    "name": "룻기",
+    "english": "RUTH",
+    "code": "RUT",
+    "chapters": 4,
+    "testament": "old"
+  },
+  {
+    "book": "1-samuel",
+    "name": "사무엘상",
+    "english": "1 SAMUEL",
+    "code": "1SA",
+    "chapters": 31,
+    "testament": "old"
+  },
+  {
+    "book": "2-samuel",
+    "name": "사무엘하",
+    "english": "2 SAMUEL",
+    "code": "2SA",
+    "chapters": 24,
+    "testament": "old"
+  },
+  {
+    "book": "1-kings",
+    "name": "열왕기상",
+    "english": "1 KINGS",
+    "code": "1KI",
+    "chapters": 22,
+    "testament": "old"
+  },
+  {
+    "book": "2-kings",
+    "name": "열왕기하",
+    "english": "2 KINGS",
+    "code": "2KI",
+    "chapters": 25,
+    "testament": "old"
+  },
+  {
+    "book": "1-chronicles",
+    "name": "역대상",
+    "english": "1 CHRONICLES",
+    "code": "1CH",
+    "chapters": 29,
+    "testament": "old"
+  },
+  {
+    "book": "2-chronicles",
+    "name": "역대하",
+    "english": "2 CHRONICLES",
+    "code": "2CH",
+    "chapters": 36,
+    "testament": "old"
+  },
+  {
+    "book": "ezra",
+    "name": "에스라",
+    "english": "EZRA",
+    "code": "EZR",
+    "chapters": 10,
+    "testament": "old"
+  },
+  {
+    "book": "nehemiah",
+    "name": "느헤미야",
+    "english": "NEHEMIAH",
+    "code": "NEH",
+    "chapters": 13,
+    "testament": "old"
+  },
+  {
+    "book": "esther",
+    "name": "에스더",
+    "english": "ESTHER",
+    "code": "EST",
+    "chapters": 10,
+    "testament": "old"
+  },
+  {
+    "book": "job",
+    "name": "욥기",
+    "english": "JOB",
+    "code": "JOB",
+    "chapters": 42,
+    "testament": "old"
+  },
+  {
+    "book": "psalms",
+    "name": "시편",
+    "english": "PSALMS",
+    "code": "PSA",
+    "chapters": 150,
+    "testament": "old"
+  },
+  {
+    "book": "proverbs",
+    "name": "잠언",
+    "english": "PROVERBS",
+    "code": "PRO",
+    "chapters": 31,
+    "testament": "old"
+  },
+  {
+    "book": "ecclesiastes",
+    "name": "전도서",
+    "english": "ECCLESIASTES",
+    "code": "ECC",
+    "chapters": 12,
+    "testament": "old"
+  },
+  {
+    "book": "song-of-songs",
+    "name": "아가",
+    "english": "SONG OF SONGS",
+    "code": "SNG",
+    "chapters": 8,
+    "testament": "old"
+  },
+  {
+    "book": "isaiah",
+    "name": "이사야",
+    "english": "ISAIAH",
+    "code": "ISA",
+    "chapters": 66,
+    "testament": "old"
+  },
+  {
+    "book": "jeremiah",
+    "name": "예레미야",
+    "english": "JEREMIAH",
+    "code": "JER",
+    "chapters": 52,
+    "testament": "old"
+  },
+  {
+    "book": "lamentations",
+    "name": "예레미야애가",
+    "english": "LAMENTATIONS",
+    "code": "LAM",
+    "chapters": 5,
+    "testament": "old"
+  },
+  {
+    "book": "ezekiel",
+    "name": "에스겔",
+    "english": "EZEKIEL",
+    "code": "EZK",
+    "chapters": 48,
+    "testament": "old"
+  },
+  {
+    "book": "daniel",
+    "name": "다니엘",
+    "english": "DANIEL",
+    "code": "DAN",
+    "chapters": 12,
+    "testament": "old"
+  },
+  {
+    "book": "hosea",
+    "name": "호세아",
+    "english": "HOSEA",
+    "code": "HOS",
+    "chapters": 14,
+    "testament": "old"
+  },
+  {
+    "book": "joel",
+    "name": "요엘",
+    "english": "JOEL",
+    "code": "JOL",
+    "chapters": 3,
+    "testament": "old"
+  },
+  {
+    "book": "amos",
+    "name": "아모스",
+    "english": "AMOS",
+    "code": "AMO",
+    "chapters": 9,
+    "testament": "old"
+  },
+  {
+    "book": "obadiah",
+    "name": "오바댜",
+    "english": "OBADIAH",
+    "code": "OBA",
+    "chapters": 1,
+    "testament": "old"
+  },
+  {
+    "book": "jonah",
+    "name": "요나",
+    "english": "JONAH",
+    "code": "JON",
+    "chapters": 4,
+    "testament": "old"
+  },
+  {
+    "book": "micah",
+    "name": "미가",
+    "english": "MICAH",
+    "code": "MIC",
+    "chapters": 7,
+    "testament": "old"
+  },
+  {
+    "book": "nahum",
+    "name": "나훔",
+    "english": "NAHUM",
+    "code": "NAM",
+    "chapters": 3,
+    "testament": "old"
+  },
+  {
+    "book": "habakkuk",
+    "name": "하박국",
+    "english": "HABAKKUK",
+    "code": "HAB",
+    "chapters": 3,
+    "testament": "old"
+  },
+  {
+    "book": "zephaniah",
+    "name": "스바냐",
+    "english": "ZEPHANIAH",
+    "code": "ZEP",
+    "chapters": 3,
+    "testament": "old"
+  },
+  {
+    "book": "haggai",
+    "name": "학개",
+    "english": "HAGGAI",
+    "code": "HAG",
+    "chapters": 2,
+    "testament": "old"
+  },
+  {
+    "book": "zechariah",
+    "name": "스가랴",
+    "english": "ZECHARIAH",
+    "code": "ZEC",
+    "chapters": 14,
+    "testament": "old"
+  },
+  {
+    "book": "malachi",
+    "name": "말라기",
+    "english": "MALACHI",
+    "code": "MAL",
+    "chapters": 4,
+    "testament": "old"
+  },
+  {
+    "book": "matthew",
+    "name": "마태복음",
+    "english": "MATTHEW",
+    "code": "MAT",
+    "chapters": 28,
+    "testament": "new"
+  },
+  {
+    "book": "mark",
+    "name": "마가복음",
+    "english": "MARK",
+    "code": "MRK",
+    "chapters": 16,
+    "testament": "new"
+  },
+  {
+    "book": "luke",
+    "name": "누가복음",
+    "english": "LUKE",
+    "code": "LUK",
+    "chapters": 24,
+    "testament": "new"
+  },
+  {
+    "book": "john",
+    "name": "요한복음",
+    "english": "JOHN",
+    "code": "JHN",
+    "chapters": 21,
+    "testament": "new"
+  },
+  {
+    "book": "acts",
+    "name": "사도행전",
+    "english": "ACTS",
+    "code": "ACT",
+    "chapters": 28,
+    "testament": "new"
+  },
+  {
+    "book": "romans",
+    "name": "로마서",
+    "english": "ROMANS",
+    "code": "ROM",
+    "chapters": 16,
+    "testament": "new"
+  },
+  {
+    "book": "1-corinthians",
+    "name": "고린도전서",
+    "english": "1 CORINTHIANS",
+    "code": "1CO",
+    "chapters": 16,
+    "testament": "new"
+  },
+  {
+    "book": "2-corinthians",
+    "name": "고린도후서",
+    "english": "2 CORINTHIANS",
+    "code": "2CO",
+    "chapters": 13,
+    "testament": "new"
+  },
+  {
+    "book": "galatians",
+    "name": "갈라디아서",
+    "english": "GALATIANS",
+    "code": "GAL",
+    "chapters": 6,
+    "testament": "new"
+  },
+  {
+    "book": "ephesians",
+    "name": "에베소서",
+    "english": "EPHESIANS",
+    "code": "EPH",
+    "chapters": 6,
+    "testament": "new"
+  },
+  {
+    "book": "philippians",
+    "name": "빌립보서",
+    "english": "PHILIPPIANS",
+    "code": "PHP",
+    "chapters": 4,
+    "testament": "new"
+  },
+  {
+    "book": "colossians",
+    "name": "골로새서",
+    "english": "COLOSSIANS",
+    "code": "COL",
+    "chapters": 4,
+    "testament": "new"
+  },
+  {
+    "book": "1-thessalonians",
+    "name": "데살로니가전서",
+    "english": "1 THESSALONIANS",
+    "code": "1TH",
+    "chapters": 5,
+    "testament": "new"
+  },
+  {
+    "book": "2-thessalonians",
+    "name": "데살로니가후서",
+    "english": "2 THESSALONIANS",
+    "code": "2TH",
+    "chapters": 3,
+    "testament": "new"
+  },
+  {
+    "book": "1-timothy",
+    "name": "디모데전서",
+    "english": "1 TIMOTHY",
+    "code": "1TI",
+    "chapters": 6,
+    "testament": "new"
+  },
+  {
+    "book": "2-timothy",
+    "name": "디모데후서",
+    "english": "2 TIMOTHY",
+    "code": "2TI",
+    "chapters": 4,
+    "testament": "new"
+  },
+  {
+    "book": "titus",
+    "name": "디도서",
+    "english": "TITUS",
+    "code": "TIT",
+    "chapters": 3,
+    "testament": "new"
+  },
+  {
+    "book": "philemon",
+    "name": "빌레몬서",
+    "english": "PHILEMON",
+    "code": "PHM",
+    "chapters": 1,
+    "testament": "new"
+  },
+  {
+    "book": "hebrews",
+    "name": "히브리서",
+    "english": "HEBREWS",
+    "code": "HEB",
+    "chapters": 13,
+    "testament": "new"
+  },
+  {
+    "book": "james",
+    "name": "야고보서",
+    "english": "JAMES",
+    "code": "JAS",
+    "chapters": 5,
+    "testament": "new"
+  },
+  {
+    "book": "1-peter",
+    "name": "베드로전서",
+    "english": "1 PETER",
+    "code": "1PE",
+    "chapters": 5,
+    "testament": "new"
+  },
+  {
+    "book": "2-peter",
+    "name": "베드로후서",
+    "english": "2 PETER",
+    "code": "2PE",
+    "chapters": 3,
+    "testament": "new"
+  },
+  {
+    "book": "1-john",
+    "name": "요한일서",
+    "english": "1 JOHN",
+    "code": "1JN",
+    "chapters": 5,
+    "testament": "new"
+  },
+  {
+    "book": "2-john",
+    "name": "요한이서",
+    "english": "2 JOHN",
+    "code": "2JN",
+    "chapters": 1,
+    "testament": "new"
+  },
+  {
+    "book": "3-john",
+    "name": "요한삼서",
+    "english": "3 JOHN",
+    "code": "3JN",
+    "chapters": 1,
+    "testament": "new"
+  },
+  {
+    "book": "jude",
+    "name": "유다서",
+    "english": "JUDE",
+    "code": "JUD",
+    "chapters": 1,
+    "testament": "new"
+  },
+  {
+    "book": "revelation",
+    "name": "요한계시록",
+    "english": "REVELATION",
+    "code": "REV",
+    "chapters": 22,
+    "testament": "new"
+  }
+]

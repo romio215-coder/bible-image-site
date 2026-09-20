@@ -1,0 +1,14 @@
+{
+  "translation": "성경전서 개역한글판",
+  "attribution": "대한성서공회 (1961)",
+  "distributor": "crizin/bible-db; holybible.or.kr",
+  "source": "https://github.com/crizin/bible-db",
+  "commit": "4bcb50b3ead59d20b4a6b847f5c79ab4cdba6a2c",
+  "license": "Public Domain (배포처 NOTICE 기준)",
+  "licenseUrl": "https://github.com/crizin/bible-db/blob/4bcb50b3ead59d20b4a6b847f5c79ab4cdba6a2c/NOTICE",
+  "sha256": "fd40780326e24efe9e16efb775db39ddf6f5d0980a97344de618533d5a6663c1",
+  "imported": "2026-09-20T00:42:08.168Z",
+  "books": 66,
+  "chapters": 1189,
+  "verses": 31101
+}

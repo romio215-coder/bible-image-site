@@ -1,0 +1,2402 @@
+[
+  {
+    "id": "sky-01",
+    "label": "하늘 01",
+    "category": "sky",
+    "colors": [
+      "hsl(192.07265134062618,30%,33.821139585226774%)",
+      "hsl(217.07265134062618,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/sky-01.webp",
+    "thumbnail": "/images/bible/thumbnails/sky-01.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "sky-02",
+    "label": "하늘 02",
+    "category": "sky",
+    "colors": [
+      "hsl(194.00542611256242,30%,37.2185355136171%)",
+      "hsl(219.00542611256242,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/sky-02.webp",
+    "thumbnail": "/images/bible/thumbnails/sky-02.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "sky-03",
+    "label": "하늘 03",
+    "category": "sky",
+    "colors": [
+      "hsl(195.93820088449866,30%,28.615931442007422%)",
+      "hsl(220.93820088449866,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/sky-03.webp",
+    "thumbnail": "/images/bible/thumbnails/sky-03.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "sky-04",
+    "label": "하늘 04",
+    "category": "sky",
+    "colors": [
+      "hsl(197.8709756564349,30%,32.01332737039775%)",
+      "hsl(222.8709756564349,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/sky-04.webp",
+    "thumbnail": "/images/bible/thumbnails/sky-04.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "sky-05",
+    "label": "하늘 05",
+    "category": "sky",
+    "colors": [
+      "hsl(199.80375042837113,30%,35.41072329878807%)",
+      "hsl(224.80375042837113,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/sky-05.webp",
+    "thumbnail": "/images/bible/thumbnails/sky-05.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "sky-06",
+    "label": "하늘 06",
+    "category": "sky",
+    "colors": [
+      "hsl(201.73652520030737,30%,38.808119227178395%)",
+      "hsl(226.73652520030737,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/sky-06.webp",
+    "thumbnail": "/images/bible/thumbnails/sky-06.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "sky-07",
+    "label": "하늘 07",
+    "category": "sky",
+    "colors": [
+      "hsl(203.6692999722436,30%,30.20551515556872%)",
+      "hsl(228.6692999722436,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/sky-07.webp",
+    "thumbnail": "/images/bible/thumbnails/sky-07.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "sky-08",
+    "label": "하늘 08",
+    "category": "sky",
+    "colors": [
+      "hsl(205.60207474417984,30%,33.60291108395904%)",
+      "hsl(230.60207474417984,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/sky-08.webp",
+    "thumbnail": "/images/bible/thumbnails/sky-08.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "sky-09",
+    "label": "하늘 09",
+    "category": "sky",
+    "colors": [
+      "hsl(207.53484951611608,30%,37.00030701234937%)",
+      "hsl(232.53484951611608,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/sky-09.webp",
+    "thumbnail": "/images/bible/thumbnails/sky-09.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "sky-10",
+    "label": "하늘 10",
+    "category": "sky",
+    "colors": [
+      "hsl(209.46762428805232,30%,28.39770294073969%)",
+      "hsl(234.46762428805232,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/sky-10.webp",
+    "thumbnail": "/images/bible/thumbnails/sky-10.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "sky-11",
+    "label": "하늘 11",
+    "category": "sky",
+    "colors": [
+      "hsl(211.40039905998856,30%,31.795098869130015%)",
+      "hsl(236.40039905998856,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/sky-11.webp",
+    "thumbnail": "/images/bible/thumbnails/sky-11.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "sky-12",
+    "label": "하늘 12",
+    "category": "sky",
+    "colors": [
+      "hsl(213.3331738319248,30%,35.19249479752034%)",
+      "hsl(238.3331738319248,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/sky-12.webp",
+    "thumbnail": "/images/bible/thumbnails/sky-12.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "sky-13",
+    "label": "하늘 13",
+    "category": "sky",
+    "colors": [
+      "hsl(215.26594860386103,30%,38.589890725910664%)",
+      "hsl(240.26594860386103,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/sky-13.webp",
+    "thumbnail": "/images/bible/thumbnails/sky-13.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "sky-14",
+    "label": "하늘 14",
+    "category": "sky",
+    "colors": [
+      "hsl(217.19872337579727,30%,29.987286654300988%)",
+      "hsl(242.19872337579727,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/sky-14.webp",
+    "thumbnail": "/images/bible/thumbnails/sky-14.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "sky-15",
+    "label": "하늘 15",
+    "category": "sky",
+    "colors": [
+      "hsl(191.1314981477335,30%,33.38468258269131%)",
+      "hsl(216.1314981477335,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/sky-15.webp",
+    "thumbnail": "/images/bible/thumbnails/sky-15.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "sky-16",
+    "label": "하늘 16",
+    "category": "sky",
+    "colors": [
+      "hsl(193.06427291966975,30%,36.782078511081636%)",
+      "hsl(218.06427291966975,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/sky-16.webp",
+    "thumbnail": "/images/bible/thumbnails/sky-16.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "sky-17",
+    "label": "하늘 17",
+    "category": "sky",
+    "colors": [
+      "hsl(194.99704769160599,30%,28.17947443947196%)",
+      "hsl(219.99704769160599,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/sky-17.webp",
+    "thumbnail": "/images/bible/thumbnails/sky-17.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "sky-18",
+    "label": "하늘 18",
+    "category": "sky",
+    "colors": [
+      "hsl(196.92982246354222,30%,31.576870367862284%)",
+      "hsl(221.92982246354222,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/sky-18.webp",
+    "thumbnail": "/images/bible/thumbnails/sky-18.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "sky-19",
+    "label": "하늘 19",
+    "category": "sky",
+    "colors": [
+      "hsl(198.86259723547846,30%,34.97426629625261%)",
+      "hsl(223.86259723547846,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/sky-19.webp",
+    "thumbnail": "/images/bible/thumbnails/sky-19.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "sky-20",
+    "label": "하늘 20",
+    "category": "sky",
+    "colors": [
+      "hsl(200.7953720074147,30%,38.37166222464293%)",
+      "hsl(225.7953720074147,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/sky-20.webp",
+    "thumbnail": "/images/bible/thumbnails/sky-20.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "sea-01",
+    "label": "바다 01",
+    "category": "sea",
+    "colors": [
+      "hsl(186.53460386116058,30%,35.329386377707124%)",
+      "hsl(211.53460386116058,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/sea-01.webp",
+    "thumbnail": "/images/bible/thumbnails/sea-01.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "sea-02",
+    "label": "바다 02",
+    "category": "sea",
+    "colors": [
+      "hsl(188.4673786330968,30%,38.72678230609745%)",
+      "hsl(213.4673786330968,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/sea-02.webp",
+    "thumbnail": "/images/bible/thumbnails/sea-02.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "sea-03",
+    "label": "바다 03",
+    "category": "sea",
+    "colors": [
+      "hsl(190.40015340503305,30%,30.124178234487772%)",
+      "hsl(215.40015340503305,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/sea-03.webp",
+    "thumbnail": "/images/bible/thumbnails/sea-03.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "sea-04",
+    "label": "바다 04",
+    "category": "sea",
+    "colors": [
+      "hsl(192.3329281769693,30%,33.521574162878096%)",
+      "hsl(217.3329281769693,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/sea-04.webp",
+    "thumbnail": "/images/bible/thumbnails/sea-04.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "sea-05",
+    "label": "바다 05",
+    "category": "sea",
+    "colors": [
+      "hsl(194.26570294890553,30%,36.91897009126842%)",
+      "hsl(219.26570294890553,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/sea-05.webp",
+    "thumbnail": "/images/bible/thumbnails/sea-05.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "sea-06",
+    "label": "바다 06",
+    "category": "sea",
+    "colors": [
+      "hsl(196.19847772084177,30%,28.316366019658744%)",
+      "hsl(221.19847772084177,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/sea-06.webp",
+    "thumbnail": "/images/bible/thumbnails/sea-06.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "sea-07",
+    "label": "바다 07",
+    "category": "sea",
+    "colors": [
+      "hsl(198.131252492778,30%,31.71376194804907%)",
+      "hsl(223.131252492778,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/sea-07.webp",
+    "thumbnail": "/images/bible/thumbnails/sea-07.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "sea-08",
+    "label": "바다 08",
+    "category": "sea",
+    "colors": [
+      "hsl(200.06402726471424,30%,35.11115787643939%)",
+      "hsl(225.06402726471424,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/sea-08.webp",
+    "thumbnail": "/images/bible/thumbnails/sea-08.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "sea-09",
+    "label": "바다 09",
+    "category": "sea",
+    "colors": [
+      "hsl(201.99680203665048,30%,38.50855380482972%)",
+      "hsl(226.99680203665048,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/sea-09.webp",
+    "thumbnail": "/images/bible/thumbnails/sea-09.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "sea-10",
+    "label": "바다 10",
+    "category": "sea",
+    "colors": [
+      "hsl(203.92957680858672,30%,29.90594973322004%)",
+      "hsl(228.92957680858672,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/sea-10.webp",
+    "thumbnail": "/images/bible/thumbnails/sea-10.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "sea-11",
+    "label": "바다 11",
+    "category": "sea",
+    "colors": [
+      "hsl(205.86235158052295,30%,33.303345661610365%)",
+      "hsl(230.86235158052295,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/sea-11.webp",
+    "thumbnail": "/images/bible/thumbnails/sea-11.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "sea-12",
+    "label": "바다 12",
+    "category": "sea",
+    "colors": [
+      "hsl(207.7951263524592,30%,36.70074159000069%)",
+      "hsl(232.7951263524592,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/sea-12.webp",
+    "thumbnail": "/images/bible/thumbnails/sea-12.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "sea-13",
+    "label": "바다 13",
+    "category": "sea",
+    "colors": [
+      "hsl(181.72790112439543,30%,28.098137518391013%)",
+      "hsl(206.72790112439543,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/sea-13.webp",
+    "thumbnail": "/images/bible/thumbnails/sea-13.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "sea-14",
+    "label": "바다 14",
+    "category": "sea",
+    "colors": [
+      "hsl(183.66067589633167,30%,31.495533446781337%)",
+      "hsl(208.66067589633167,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/sea-14.webp",
+    "thumbnail": "/images/bible/thumbnails/sea-14.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "sea-15",
+    "label": "바다 15",
+    "category": "sea",
+    "colors": [
+      "hsl(185.5934506682679,30%,34.89292937517166%)",
+      "hsl(210.5934506682679,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/sea-15.webp",
+    "thumbnail": "/images/bible/thumbnails/sea-15.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "sea-16",
+    "label": "바다 16",
+    "category": "sea",
+    "colors": [
+      "hsl(187.52622544020414,30%,38.290325303561985%)",
+      "hsl(212.52622544020414,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/sea-16.webp",
+    "thumbnail": "/images/bible/thumbnails/sea-16.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "sea-17",
+    "label": "바다 17",
+    "category": "sea",
+    "colors": [
+      "hsl(189.45900021214038,30%,29.68772123195231%)",
+      "hsl(214.45900021214038,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/sea-17.webp",
+    "thumbnail": "/images/bible/thumbnails/sea-17.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "sea-18",
+    "label": "바다 18",
+    "category": "sea",
+    "colors": [
+      "hsl(191.39177498407662,30%,33.085117160342634%)",
+      "hsl(216.39177498407662,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/sea-18.webp",
+    "thumbnail": "/images/bible/thumbnails/sea-18.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "sea-19",
+    "label": "바다 19",
+    "category": "sea",
+    "colors": [
+      "hsl(193.32454975601286,30%,36.48251308873296%)",
+      "hsl(218.32454975601286,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/sea-19.webp",
+    "thumbnail": "/images/bible/thumbnails/sea-19.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "sea-20",
+    "label": "바다 20",
+    "category": "sea",
+    "colors": [
+      "hsl(195.2573245279491,30%,39.87990901712328%)",
+      "hsl(220.2573245279491,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/sea-20.webp",
+    "thumbnail": "/images/bible/thumbnails/sea-20.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "mountain-01",
+    "label": "산 01",
+    "category": "mountain",
+    "colors": [
+      "hsl(169.92046142276376,30%,39.85412675514817%)",
+      "hsl(194.92046142276376,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/mountain-01.webp",
+    "thumbnail": "/images/bible/thumbnails/mountain-01.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "mountain-02",
+    "label": "산 02",
+    "category": "mountain",
+    "colors": [
+      "hsl(171.8532361947,30%,31.251522683538496%)",
+      "hsl(196.8532361947,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/mountain-02.webp",
+    "thumbnail": "/images/bible/thumbnails/mountain-02.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "mountain-03",
+    "label": "산 03",
+    "category": "mountain",
+    "colors": [
+      "hsl(173.78601096663624,30%,34.64891861192882%)",
+      "hsl(198.78601096663624,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/mountain-03.webp",
+    "thumbnail": "/images/bible/thumbnails/mountain-03.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "mountain-04",
+    "label": "산 04",
+    "category": "mountain",
+    "colors": [
+      "hsl(175.71878573857248,30%,38.046314540319145%)",
+      "hsl(200.71878573857248,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/mountain-04.webp",
+    "thumbnail": "/images/bible/thumbnails/mountain-04.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "mountain-05",
+    "label": "산 05",
+    "category": "mountain",
+    "colors": [
+      "hsl(177.65156051050872,30%,29.44371046870947%)",
+      "hsl(202.65156051050872,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/mountain-05.webp",
+    "thumbnail": "/images/bible/thumbnails/mountain-05.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "mountain-06",
+    "label": "산 06",
+    "category": "mountain",
+    "colors": [
+      "hsl(151.58433528244495,30%,32.84110639709979%)",
+      "hsl(176.58433528244495,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/mountain-06.webp",
+    "thumbnail": "/images/bible/thumbnails/mountain-06.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "mountain-07",
+    "label": "산 07",
+    "category": "mountain",
+    "colors": [
+      "hsl(153.5171100543812,30%,36.23850232549012%)",
+      "hsl(178.5171100543812,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/mountain-07.webp",
+    "thumbnail": "/images/bible/thumbnails/mountain-07.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "mountain-08",
+    "label": "산 08",
+    "category": "mountain",
+    "colors": [
+      "hsl(155.44988482631743,30%,39.63589825388044%)",
+      "hsl(180.44988482631743,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/mountain-08.webp",
+    "thumbnail": "/images/bible/thumbnails/mountain-08.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "mountain-09",
+    "label": "산 09",
+    "category": "mountain",
+    "colors": [
+      "hsl(157.38265959825367,30%,31.033294182270765%)",
+      "hsl(182.38265959825367,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/mountain-09.webp",
+    "thumbnail": "/images/bible/thumbnails/mountain-09.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "mountain-10",
+    "label": "산 10",
+    "category": "mountain",
+    "colors": [
+      "hsl(159.3154343701899,30%,34.43069011066109%)",
+      "hsl(184.3154343701899,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/mountain-10.webp",
+    "thumbnail": "/images/bible/thumbnails/mountain-10.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "mountain-11",
+    "label": "산 11",
+    "category": "mountain",
+    "colors": [
+      "hsl(161.24820914212614,30%,37.82808603905141%)",
+      "hsl(186.24820914212614,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/mountain-11.webp",
+    "thumbnail": "/images/bible/thumbnails/mountain-11.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "mountain-12",
+    "label": "산 12",
+    "category": "mountain",
+    "colors": [
+      "hsl(163.18098391406238,30%,29.225481967441738%)",
+      "hsl(188.18098391406238,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/mountain-12.webp",
+    "thumbnail": "/images/bible/thumbnails/mountain-12.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "mountain-13",
+    "label": "산 13",
+    "category": "mountain",
+    "colors": [
+      "hsl(165.11375868599862,30%,32.62287789583206%)",
+      "hsl(190.11375868599862,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/mountain-13.webp",
+    "thumbnail": "/images/bible/thumbnails/mountain-13.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "mountain-14",
+    "label": "산 14",
+    "category": "mountain",
+    "colors": [
+      "hsl(167.04653345793486,30%,36.020273824222386%)",
+      "hsl(192.04653345793486,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/mountain-14.webp",
+    "thumbnail": "/images/bible/thumbnails/mountain-14.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "mountain-15",
+    "label": "산 15",
+    "category": "mountain",
+    "colors": [
+      "hsl(168.9793082298711,30%,39.41766975261271%)",
+      "hsl(193.9793082298711,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/mountain-15.webp",
+    "thumbnail": "/images/bible/thumbnails/mountain-15.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "mountain-16",
+    "label": "산 16",
+    "category": "mountain",
+    "colors": [
+      "hsl(170.91208300180733,30%,30.815065681003034%)",
+      "hsl(195.91208300180733,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/mountain-16.webp",
+    "thumbnail": "/images/bible/thumbnails/mountain-16.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "mountain-17",
+    "label": "산 17",
+    "category": "mountain",
+    "colors": [
+      "hsl(172.84485777374357,30%,34.21246160939336%)",
+      "hsl(197.84485777374357,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/mountain-17.webp",
+    "thumbnail": "/images/bible/thumbnails/mountain-17.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "mountain-18",
+    "label": "산 18",
+    "category": "mountain",
+    "colors": [
+      "hsl(174.7776325456798,30%,37.60985753778368%)",
+      "hsl(199.7776325456798,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/mountain-18.webp",
+    "thumbnail": "/images/bible/thumbnails/mountain-18.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "mountain-19",
+    "label": "산 19",
+    "category": "mountain",
+    "colors": [
+      "hsl(176.71040731761605,30%,29.007253466174006%)",
+      "hsl(201.71040731761605,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/mountain-19.webp",
+    "thumbnail": "/images/bible/thumbnails/mountain-19.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "mountain-20",
+    "label": "산 20",
+    "category": "mountain",
+    "colors": [
+      "hsl(178.64318208955228,30%,32.40464939456433%)",
+      "hsl(203.64318208955228,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/mountain-20.webp",
+    "thumbnail": "/images/bible/thumbnails/mountain-20.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "forest-01",
+    "label": "숲 01",
+    "category": "forest",
+    "colors": [
+      "hsl(128.07534272409976,30%,37.624743736349046%)",
+      "hsl(153.07534272409976,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/forest-01.webp",
+    "thumbnail": "/images/bible/thumbnails/forest-01.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "forest-02",
+    "label": "숲 02",
+    "category": "forest",
+    "colors": [
+      "hsl(130.008117496036,30%,29.02213966473937%)",
+      "hsl(155.008117496036,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/forest-02.webp",
+    "thumbnail": "/images/bible/thumbnails/forest-02.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "forest-03",
+    "label": "숲 03",
+    "category": "forest",
+    "colors": [
+      "hsl(131.94089226797223,30%,32.419535593129694%)",
+      "hsl(156.94089226797223,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/forest-03.webp",
+    "thumbnail": "/images/bible/thumbnails/forest-03.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "forest-04",
+    "label": "숲 04",
+    "category": "forest",
+    "colors": [
+      "hsl(133.87366703990847,30%,35.81693152152002%)",
+      "hsl(158.87366703990847,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/forest-04.webp",
+    "thumbnail": "/images/bible/thumbnails/forest-04.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "forest-05",
+    "label": "숲 05",
+    "category": "forest",
+    "colors": [
+      "hsl(135.8064418118447,30%,39.21432744991034%)",
+      "hsl(160.8064418118447,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/forest-05.webp",
+    "thumbnail": "/images/bible/thumbnails/forest-05.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "forest-06",
+    "label": "숲 06",
+    "category": "forest",
+    "colors": [
+      "hsl(137.73921658378094,30%,30.611723378300667%)",
+      "hsl(162.73921658378094,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/forest-06.webp",
+    "thumbnail": "/images/bible/thumbnails/forest-06.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "forest-07",
+    "label": "숲 07",
+    "category": "forest",
+    "colors": [
+      "hsl(139.67199135571718,30%,34.00911930669099%)",
+      "hsl(164.67199135571718,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/forest-07.webp",
+    "thumbnail": "/images/bible/thumbnails/forest-07.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "forest-08",
+    "label": "숲 08",
+    "category": "forest",
+    "colors": [
+      "hsl(141.60476612765342,30%,37.406515235081315%)",
+      "hsl(166.60476612765342,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/forest-08.webp",
+    "thumbnail": "/images/bible/thumbnails/forest-08.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "forest-09",
+    "label": "숲 09",
+    "category": "forest",
+    "colors": [
+      "hsl(143.53754089958966,30%,28.80391116347164%)",
+      "hsl(168.53754089958966,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/forest-09.webp",
+    "thumbnail": "/images/bible/thumbnails/forest-09.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "forest-10",
+    "label": "숲 10",
+    "category": "forest",
+    "colors": [
+      "hsl(145.4703156715259,30%,32.20130709186196%)",
+      "hsl(170.4703156715259,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/forest-10.webp",
+    "thumbnail": "/images/bible/thumbnails/forest-10.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "forest-11",
+    "label": "숲 11",
+    "category": "forest",
+    "colors": [
+      "hsl(147.40309044346213,30%,35.59870302025229%)",
+      "hsl(172.40309044346213,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/forest-11.webp",
+    "thumbnail": "/images/bible/thumbnails/forest-11.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "forest-12",
+    "label": "숲 12",
+    "category": "forest",
+    "colors": [
+      "hsl(149.33586521539837,30%,38.99609894864261%)",
+      "hsl(174.33586521539837,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/forest-12.webp",
+    "thumbnail": "/images/bible/thumbnails/forest-12.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "forest-13",
+    "label": "숲 13",
+    "category": "forest",
+    "colors": [
+      "hsl(151.2686399873346,30%,30.393494877032936%)",
+      "hsl(176.2686399873346,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/forest-13.webp",
+    "thumbnail": "/images/bible/thumbnails/forest-13.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "forest-14",
+    "label": "숲 14",
+    "category": "forest",
+    "colors": [
+      "hsl(153.20141475927085,30%,33.79089080542326%)",
+      "hsl(178.20141475927085,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/forest-14.webp",
+    "thumbnail": "/images/bible/thumbnails/forest-14.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "forest-15",
+    "label": "숲 15",
+    "category": "forest",
+    "colors": [
+      "hsl(127.13418953120708,30%,37.188286733813584%)",
+      "hsl(152.13418953120708,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/forest-15.webp",
+    "thumbnail": "/images/bible/thumbnails/forest-15.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "forest-16",
+    "label": "숲 16",
+    "category": "forest",
+    "colors": [
+      "hsl(129.06696430314332,30%,28.585682662203908%)",
+      "hsl(154.06696430314332,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/forest-16.webp",
+    "thumbnail": "/images/bible/thumbnails/forest-16.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "forest-17",
+    "label": "숲 17",
+    "category": "forest",
+    "colors": [
+      "hsl(130.99973907507956,30%,31.983078590594232%)",
+      "hsl(155.99973907507956,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/forest-17.webp",
+    "thumbnail": "/images/bible/thumbnails/forest-17.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "forest-18",
+    "label": "숲 18",
+    "category": "forest",
+    "colors": [
+      "hsl(132.9325138470158,30%,35.380474518984556%)",
+      "hsl(157.9325138470158,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/forest-18.webp",
+    "thumbnail": "/images/bible/thumbnails/forest-18.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "forest-19",
+    "label": "숲 19",
+    "category": "forest",
+    "colors": [
+      "hsl(134.86528861895204,30%,38.77787044737488%)",
+      "hsl(159.86528861895204,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/forest-19.webp",
+    "thumbnail": "/images/bible/thumbnails/forest-19.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "forest-20",
+    "label": "숲 20",
+    "category": "forest",
+    "colors": [
+      "hsl(136.79806339088827,30%,30.175266375765204%)",
+      "hsl(161.79806339088827,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/forest-20.webp",
+    "thumbnail": "/images/bible/thumbnails/forest-20.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "dawn-01",
+    "label": "새벽 01",
+    "category": "dawn",
+    "colors": [
+      "hsl(253.3009362174198,30%,36.77165883034468%)",
+      "hsl(278.3009362174198,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/dawn-01.webp",
+    "thumbnail": "/images/bible/thumbnails/dawn-01.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "dawn-02",
+    "label": "새벽 02",
+    "category": "dawn",
+    "colors": [
+      "hsl(255.23371098935604,30%,28.169054758735%)",
+      "hsl(280.23371098935604,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/dawn-02.webp",
+    "thumbnail": "/images/bible/thumbnails/dawn-02.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "dawn-03",
+    "label": "새벽 03",
+    "category": "dawn",
+    "colors": [
+      "hsl(257.1664857612923,30%,31.566450687125325%)",
+      "hsl(282.1664857612923,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/dawn-03.webp",
+    "thumbnail": "/images/bible/thumbnails/dawn-03.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "dawn-04",
+    "label": "새벽 04",
+    "category": "dawn",
+    "colors": [
+      "hsl(259.0992605332285,30%,34.96384661551565%)",
+      "hsl(284.0992605332285,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/dawn-04.webp",
+    "thumbnail": "/images/bible/thumbnails/dawn-04.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "dawn-05",
+    "label": "새벽 05",
+    "category": "dawn",
+    "colors": [
+      "hsl(261.03203530516475,30%,38.36124254390597%)",
+      "hsl(286.03203530516475,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/dawn-05.webp",
+    "thumbnail": "/images/bible/thumbnails/dawn-05.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "dawn-06",
+    "label": "새벽 06",
+    "category": "dawn",
+    "colors": [
+      "hsl(262.964810077101,30%,29.758638472296298%)",
+      "hsl(287.964810077101,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/dawn-06.webp",
+    "thumbnail": "/images/bible/thumbnails/dawn-06.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "dawn-07",
+    "label": "새벽 07",
+    "category": "dawn",
+    "colors": [
+      "hsl(264.89758484903723,30%,33.15603440068662%)",
+      "hsl(289.89758484903723,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/dawn-07.webp",
+    "thumbnail": "/images/bible/thumbnails/dawn-07.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "dawn-08",
+    "label": "새벽 08",
+    "category": "dawn",
+    "colors": [
+      "hsl(266.83035962097347,30%,36.553430329076946%)",
+      "hsl(291.83035962097347,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/dawn-08.webp",
+    "thumbnail": "/images/bible/thumbnails/dawn-08.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "dawn-09",
+    "label": "새벽 09",
+    "category": "dawn",
+    "colors": [
+      "hsl(268.7631343929097,30%,39.95082625746727%)",
+      "hsl(293.7631343929097,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/dawn-09.webp",
+    "thumbnail": "/images/bible/thumbnails/dawn-09.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "dawn-10",
+    "label": "새벽 10",
+    "category": "dawn",
+    "colors": [
+      "hsl(270.69590916484594,30%,31.348222185857594%)",
+      "hsl(295.69590916484594,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/dawn-10.webp",
+    "thumbnail": "/images/bible/thumbnails/dawn-10.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "dawn-11",
+    "label": "새벽 11",
+    "category": "dawn",
+    "colors": [
+      "hsl(272.6286839367822,30%,34.74561811424792%)",
+      "hsl(297.6286839367822,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/dawn-11.webp",
+    "thumbnail": "/images/bible/thumbnails/dawn-11.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "dawn-12",
+    "label": "새벽 12",
+    "category": "dawn",
+    "colors": [
+      "hsl(274.5614587087184,30%,38.14301404263824%)",
+      "hsl(299.5614587087184,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/dawn-12.webp",
+    "thumbnail": "/images/bible/thumbnails/dawn-12.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "dawn-13",
+    "label": "새벽 13",
+    "category": "dawn",
+    "colors": [
+      "hsl(276.49423348065466,30%,29.540409971028566%)",
+      "hsl(301.49423348065466,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/dawn-13.webp",
+    "thumbnail": "/images/bible/thumbnails/dawn-13.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "dawn-14",
+    "label": "새벽 14",
+    "category": "dawn",
+    "colors": [
+      "hsl(278.4270082525909,30%,32.93780589941889%)",
+      "hsl(303.4270082525909,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/dawn-14.webp",
+    "thumbnail": "/images/bible/thumbnails/dawn-14.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "dawn-15",
+    "label": "새벽 15",
+    "category": "dawn",
+    "colors": [
+      "hsl(252.35978302452713,30%,36.335201827809215%)",
+      "hsl(277.35978302452713,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/dawn-15.webp",
+    "thumbnail": "/images/bible/thumbnails/dawn-15.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "dawn-16",
+    "label": "새벽 16",
+    "category": "dawn",
+    "colors": [
+      "hsl(254.29255779646337,30%,39.73259775619954%)",
+      "hsl(279.29255779646337,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/dawn-16.webp",
+    "thumbnail": "/images/bible/thumbnails/dawn-16.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "dawn-17",
+    "label": "새벽 17",
+    "category": "dawn",
+    "colors": [
+      "hsl(256.2253325683996,30%,31.129993684589863%)",
+      "hsl(281.2253325683996,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/dawn-17.webp",
+    "thumbnail": "/images/bible/thumbnails/dawn-17.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "dawn-18",
+    "label": "새벽 18",
+    "category": "dawn",
+    "colors": [
+      "hsl(258.15810734033585,30%,34.52738961298019%)",
+      "hsl(283.15810734033585,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/dawn-18.webp",
+    "thumbnail": "/images/bible/thumbnails/dawn-18.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "dawn-19",
+    "label": "새벽 19",
+    "category": "dawn",
+    "colors": [
+      "hsl(260.0908821122721,30%,37.92478554137051%)",
+      "hsl(285.0908821122721,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/dawn-19.webp",
+    "thumbnail": "/images/bible/thumbnails/dawn-19.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "dawn-20",
+    "label": "새벽 20",
+    "category": "dawn",
+    "colors": [
+      "hsl(262.0236568842083,30%,29.322181469760835%)",
+      "hsl(287.0236568842083,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/dawn-20.webp",
+    "thumbnail": "/images/bible/thumbnails/dawn-20.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "stars-01",
+    "label": "별 01",
+    "category": "stars",
+    "colors": [
+      "hsl(233.9177700392902,30%,10%)",
+      "hsl(258.9177700392902,35%,27%)"
+    ],
+    "image": "/images/bible/illustrations/stars-01.webp",
+    "thumbnail": "/images/bible/thumbnails/stars-01.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "stars-02",
+    "label": "별 02",
+    "category": "stars",
+    "colors": [
+      "hsl(235.85054481122643,30%,10%)",
+      "hsl(260.8505448112264,35%,27%)"
+    ],
+    "image": "/images/bible/illustrations/stars-02.webp",
+    "thumbnail": "/images/bible/thumbnails/stars-02.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "stars-03",
+    "label": "별 03",
+    "category": "stars",
+    "colors": [
+      "hsl(237.78331958316267,30%,10%)",
+      "hsl(262.78331958316267,35%,27%)"
+    ],
+    "image": "/images/bible/illustrations/stars-03.webp",
+    "thumbnail": "/images/bible/thumbnails/stars-03.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "stars-04",
+    "label": "별 04",
+    "category": "stars",
+    "colors": [
+      "hsl(239.7160943550989,30%,10%)",
+      "hsl(264.7160943550989,35%,27%)"
+    ],
+    "image": "/images/bible/illustrations/stars-04.webp",
+    "thumbnail": "/images/bible/thumbnails/stars-04.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "stars-05",
+    "label": "별 05",
+    "category": "stars",
+    "colors": [
+      "hsl(241.64886912703514,30%,10%)",
+      "hsl(266.64886912703514,35%,27%)"
+    ],
+    "image": "/images/bible/illustrations/stars-05.webp",
+    "thumbnail": "/images/bible/thumbnails/stars-05.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "stars-06",
+    "label": "별 06",
+    "category": "stars",
+    "colors": [
+      "hsl(243.58164389897138,30%,10%)",
+      "hsl(268.5816438989714,35%,27%)"
+    ],
+    "image": "/images/bible/illustrations/stars-06.webp",
+    "thumbnail": "/images/bible/thumbnails/stars-06.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "stars-07",
+    "label": "별 07",
+    "category": "stars",
+    "colors": [
+      "hsl(217.51441867090762,30%,10%)",
+      "hsl(242.51441867090762,35%,27%)"
+    ],
+    "image": "/images/bible/illustrations/stars-07.webp",
+    "thumbnail": "/images/bible/thumbnails/stars-07.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "stars-08",
+    "label": "별 08",
+    "category": "stars",
+    "colors": [
+      "hsl(219.44719344284385,30%,10%)",
+      "hsl(244.44719344284385,35%,27%)"
+    ],
+    "image": "/images/bible/illustrations/stars-08.webp",
+    "thumbnail": "/images/bible/thumbnails/stars-08.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "stars-09",
+    "label": "별 09",
+    "category": "stars",
+    "colors": [
+      "hsl(221.3799682147801,30%,10%)",
+      "hsl(246.3799682147801,35%,27%)"
+    ],
+    "image": "/images/bible/illustrations/stars-09.webp",
+    "thumbnail": "/images/bible/thumbnails/stars-09.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "stars-10",
+    "label": "별 10",
+    "category": "stars",
+    "colors": [
+      "hsl(223.31274298671633,30%,10%)",
+      "hsl(248.31274298671633,35%,27%)"
+    ],
+    "image": "/images/bible/illustrations/stars-10.webp",
+    "thumbnail": "/images/bible/thumbnails/stars-10.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "stars-11",
+    "label": "별 11",
+    "category": "stars",
+    "colors": [
+      "hsl(225.24551775865257,30%,10%)",
+      "hsl(250.24551775865257,35%,27%)"
+    ],
+    "image": "/images/bible/illustrations/stars-11.webp",
+    "thumbnail": "/images/bible/thumbnails/stars-11.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "stars-12",
+    "label": "별 12",
+    "category": "stars",
+    "colors": [
+      "hsl(227.1782925305888,30%,10%)",
+      "hsl(252.1782925305888,35%,27%)"
+    ],
+    "image": "/images/bible/illustrations/stars-12.webp",
+    "thumbnail": "/images/bible/thumbnails/stars-12.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "stars-13",
+    "label": "별 13",
+    "category": "stars",
+    "colors": [
+      "hsl(229.11106730252504,30%,10%)",
+      "hsl(254.11106730252504,35%,27%)"
+    ],
+    "image": "/images/bible/illustrations/stars-13.webp",
+    "thumbnail": "/images/bible/thumbnails/stars-13.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "stars-14",
+    "label": "별 14",
+    "category": "stars",
+    "colors": [
+      "hsl(231.04384207446128,30%,10%)",
+      "hsl(256.0438420744613,35%,27%)"
+    ],
+    "image": "/images/bible/illustrations/stars-14.webp",
+    "thumbnail": "/images/bible/thumbnails/stars-14.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "stars-15",
+    "label": "별 15",
+    "category": "stars",
+    "colors": [
+      "hsl(232.97661684639752,30%,10%)",
+      "hsl(257.9766168463975,35%,27%)"
+    ],
+    "image": "/images/bible/illustrations/stars-15.webp",
+    "thumbnail": "/images/bible/thumbnails/stars-15.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "stars-16",
+    "label": "별 16",
+    "category": "stars",
+    "colors": [
+      "hsl(234.90939161833376,30%,10%)",
+      "hsl(259.90939161833376,35%,27%)"
+    ],
+    "image": "/images/bible/illustrations/stars-16.webp",
+    "thumbnail": "/images/bible/thumbnails/stars-16.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "stars-17",
+    "label": "별 17",
+    "category": "stars",
+    "colors": [
+      "hsl(236.84216639027,30%,10%)",
+      "hsl(261.84216639027,35%,27%)"
+    ],
+    "image": "/images/bible/illustrations/stars-17.webp",
+    "thumbnail": "/images/bible/thumbnails/stars-17.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "stars-18",
+    "label": "별 18",
+    "category": "stars",
+    "colors": [
+      "hsl(238.77494116220623,30%,10%)",
+      "hsl(263.77494116220623,35%,27%)"
+    ],
+    "image": "/images/bible/illustrations/stars-18.webp",
+    "thumbnail": "/images/bible/thumbnails/stars-18.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "stars-19",
+    "label": "별 19",
+    "category": "stars",
+    "colors": [
+      "hsl(240.70771593414247,30%,10%)",
+      "hsl(265.70771593414247,35%,27%)"
+    ],
+    "image": "/images/bible/illustrations/stars-19.webp",
+    "thumbnail": "/images/bible/thumbnails/stars-19.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "stars-20",
+    "label": "별 20",
+    "category": "stars",
+    "colors": [
+      "hsl(242.6404907060787,30%,10%)",
+      "hsl(267.6404907060787,35%,27%)"
+    ],
+    "image": "/images/bible/illustrations/stars-20.webp",
+    "thumbnail": "/images/bible/thumbnails/stars-20.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "desert-01",
+    "label": "광야 01",
+    "category": "desert",
+    "colors": [
+      "hsl(39.15682044997811,30%,30.21545845363289%)",
+      "hsl(64.15682044997811,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/desert-01.webp",
+    "thumbnail": "/images/bible/thumbnails/desert-01.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "desert-02",
+    "label": "광야 02",
+    "category": "desert",
+    "colors": [
+      "hsl(41.08959522191435,30%,33.612854382023215%)",
+      "hsl(66.08959522191435,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/desert-02.webp",
+    "thumbnail": "/images/bible/thumbnails/desert-02.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "desert-03",
+    "label": "광야 03",
+    "category": "desert",
+    "colors": [
+      "hsl(43.02236999385059,30%,37.01025031041354%)",
+      "hsl(68.02236999385059,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/desert-03.webp",
+    "thumbnail": "/images/bible/thumbnails/desert-03.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "desert-04",
+    "label": "광야 04",
+    "category": "desert",
+    "colors": [
+      "hsl(16.955144765786827,30%,28.407646238803864%)",
+      "hsl(41.95514476578683,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/desert-04.webp",
+    "thumbnail": "/images/bible/thumbnails/desert-04.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "desert-05",
+    "label": "광야 05",
+    "category": "desert",
+    "colors": [
+      "hsl(18.887919537723064,30%,31.805042167194188%)",
+      "hsl(43.887919537723064,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/desert-05.webp",
+    "thumbnail": "/images/bible/thumbnails/desert-05.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "desert-06",
+    "label": "광야 06",
+    "category": "desert",
+    "colors": [
+      "hsl(20.820694309659302,30%,35.20243809558451%)",
+      "hsl(45.8206943096593,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/desert-06.webp",
+    "thumbnail": "/images/bible/thumbnails/desert-06.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "desert-07",
+    "label": "광야 07",
+    "category": "desert",
+    "colors": [
+      "hsl(22.75346908159554,30%,38.599834023974836%)",
+      "hsl(47.75346908159554,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/desert-07.webp",
+    "thumbnail": "/images/bible/thumbnails/desert-07.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "desert-08",
+    "label": "광야 08",
+    "category": "desert",
+    "colors": [
+      "hsl(24.686243853531778,30%,29.99722995236516%)",
+      "hsl(49.68624385353178,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/desert-08.webp",
+    "thumbnail": "/images/bible/thumbnails/desert-08.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "desert-09",
+    "label": "광야 09",
+    "category": "desert",
+    "colors": [
+      "hsl(26.619018625468016,30%,33.394625880755484%)",
+      "hsl(51.619018625468016,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/desert-09.webp",
+    "thumbnail": "/images/bible/thumbnails/desert-09.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "desert-10",
+    "label": "광야 10",
+    "category": "desert",
+    "colors": [
+      "hsl(28.551793397404253,30%,36.79202180914581%)",
+      "hsl(53.55179339740425,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/desert-10.webp",
+    "thumbnail": "/images/bible/thumbnails/desert-10.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "desert-11",
+    "label": "광야 11",
+    "category": "desert",
+    "colors": [
+      "hsl(30.48456816934049,30%,28.189417737536132%)",
+      "hsl(55.48456816934049,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/desert-11.webp",
+    "thumbnail": "/images/bible/thumbnails/desert-11.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "desert-12",
+    "label": "광야 12",
+    "category": "desert",
+    "colors": [
+      "hsl(32.41734294127673,30%,31.586813665926456%)",
+      "hsl(57.41734294127673,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/desert-12.webp",
+    "thumbnail": "/images/bible/thumbnails/desert-12.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "desert-13",
+    "label": "광야 13",
+    "category": "desert",
+    "colors": [
+      "hsl(34.35011771321297,30%,34.98420959431678%)",
+      "hsl(59.35011771321297,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/desert-13.webp",
+    "thumbnail": "/images/bible/thumbnails/desert-13.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "desert-14",
+    "label": "광야 14",
+    "category": "desert",
+    "colors": [
+      "hsl(36.282892485149205,30%,38.381605522707105%)",
+      "hsl(61.282892485149205,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/desert-14.webp",
+    "thumbnail": "/images/bible/thumbnails/desert-14.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "desert-15",
+    "label": "광야 15",
+    "category": "desert",
+    "colors": [
+      "hsl(38.21566725708544,30%,29.77900145109743%)",
+      "hsl(63.21566725708544,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/desert-15.webp",
+    "thumbnail": "/images/bible/thumbnails/desert-15.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "desert-16",
+    "label": "광야 16",
+    "category": "desert",
+    "colors": [
+      "hsl(40.14844202902168,30%,33.17639737948775%)",
+      "hsl(65.14844202902168,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/desert-16.webp",
+    "thumbnail": "/images/bible/thumbnails/desert-16.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "desert-17",
+    "label": "광야 17",
+    "category": "desert",
+    "colors": [
+      "hsl(42.08121680095792,30%,36.57379330787808%)",
+      "hsl(67.08121680095792,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/desert-17.webp",
+    "thumbnail": "/images/bible/thumbnails/desert-17.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "desert-18",
+    "label": "광야 18",
+    "category": "desert",
+    "colors": [
+      "hsl(16.013991572894156,30%,39.9711892362684%)",
+      "hsl(41.013991572894156,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/desert-18.webp",
+    "thumbnail": "/images/bible/thumbnails/desert-18.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "desert-19",
+    "label": "광야 19",
+    "category": "desert",
+    "colors": [
+      "hsl(17.946766344830394,30%,31.368585164658725%)",
+      "hsl(42.946766344830394,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/desert-19.webp",
+    "thumbnail": "/images/bible/thumbnails/desert-19.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "desert-20",
+    "label": "광야 20",
+    "category": "desert",
+    "colors": [
+      "hsl(19.87954111676663,30%,34.76598109304905%)",
+      "hsl(44.87954111676663,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/desert-20.webp",
+    "thumbnail": "/images/bible/thumbnails/desert-20.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "path-01",
+    "label": "길 01",
+    "category": "path",
+    "colors": [
+      "hsl(105.92315280623734,30%,31.657730906270444%)",
+      "hsl(130.92315280623734,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/path-01.webp",
+    "thumbnail": "/images/bible/thumbnails/path-01.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "path-02",
+    "label": "길 02",
+    "category": "path",
+    "colors": [
+      "hsl(107.85592757817358,30%,35.05512683466077%)",
+      "hsl(132.85592757817358,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/path-02.webp",
+    "thumbnail": "/images/bible/thumbnails/path-02.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "path-03",
+    "label": "길 03",
+    "category": "path",
+    "colors": [
+      "hsl(109.78870235010982,30%,38.45252276305109%)",
+      "hsl(134.78870235010982,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/path-03.webp",
+    "thumbnail": "/images/bible/thumbnails/path-03.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "path-04",
+    "label": "길 04",
+    "category": "path",
+    "colors": [
+      "hsl(111.72147712204605,30%,29.849918691441417%)",
+      "hsl(136.72147712204605,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/path-04.webp",
+    "thumbnail": "/images/bible/thumbnails/path-04.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "path-05",
+    "label": "길 05",
+    "category": "path",
+    "colors": [
+      "hsl(113.65425189398229,30%,33.24731461983174%)",
+      "hsl(138.6542518939823,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/path-05.webp",
+    "thumbnail": "/images/bible/thumbnails/path-05.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "path-06",
+    "label": "길 06",
+    "category": "path",
+    "colors": [
+      "hsl(87.58702666591853,30%,36.644710548222065%)",
+      "hsl(112.58702666591853,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/path-06.webp",
+    "thumbnail": "/images/bible/thumbnails/path-06.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "path-07",
+    "label": "길 07",
+    "category": "path",
+    "colors": [
+      "hsl(89.51980143785477,30%,28.04210647661239%)",
+      "hsl(114.51980143785477,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/path-07.webp",
+    "thumbnail": "/images/bible/thumbnails/path-07.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "path-08",
+    "label": "길 08",
+    "category": "path",
+    "colors": [
+      "hsl(91.452576209791,30%,31.439502405002713%)",
+      "hsl(116.452576209791,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/path-08.webp",
+    "thumbnail": "/images/bible/thumbnails/path-08.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "path-09",
+    "label": "길 09",
+    "category": "path",
+    "colors": [
+      "hsl(93.38535098172724,30%,34.83689833339304%)",
+      "hsl(118.38535098172724,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/path-09.webp",
+    "thumbnail": "/images/bible/thumbnails/path-09.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "path-10",
+    "label": "길 10",
+    "category": "path",
+    "colors": [
+      "hsl(95.31812575366348,30%,38.23429426178336%)",
+      "hsl(120.31812575366348,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/path-10.webp",
+    "thumbnail": "/images/bible/thumbnails/path-10.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "path-11",
+    "label": "길 11",
+    "category": "path",
+    "colors": [
+      "hsl(97.25090052559972,30%,29.631690190173686%)",
+      "hsl(122.25090052559972,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/path-11.webp",
+    "thumbnail": "/images/bible/thumbnails/path-11.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "path-12",
+    "label": "길 12",
+    "category": "path",
+    "colors": [
+      "hsl(99.18367529753596,30%,33.02908611856401%)",
+      "hsl(124.18367529753596,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/path-12.webp",
+    "thumbnail": "/images/bible/thumbnails/path-12.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "path-13",
+    "label": "길 13",
+    "category": "path",
+    "colors": [
+      "hsl(101.1164500694722,30%,36.426482046954334%)",
+      "hsl(126.1164500694722,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/path-13.webp",
+    "thumbnail": "/images/bible/thumbnails/path-13.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "path-14",
+    "label": "길 14",
+    "category": "path",
+    "colors": [
+      "hsl(103.04922484140843,30%,39.82387797534466%)",
+      "hsl(128.04922484140843,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/path-14.webp",
+    "thumbnail": "/images/bible/thumbnails/path-14.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "path-15",
+    "label": "길 15",
+    "category": "path",
+    "colors": [
+      "hsl(104.98199961334467,30%,31.221273903734982%)",
+      "hsl(129.98199961334467,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/path-15.webp",
+    "thumbnail": "/images/bible/thumbnails/path-15.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "path-16",
+    "label": "길 16",
+    "category": "path",
+    "colors": [
+      "hsl(106.91477438528091,30%,34.618669832125306%)",
+      "hsl(131.9147743852809,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/path-16.webp",
+    "thumbnail": "/images/bible/thumbnails/path-16.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "path-17",
+    "label": "길 17",
+    "category": "path",
+    "colors": [
+      "hsl(108.84754915721714,30%,38.01606576051563%)",
+      "hsl(133.84754915721714,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/path-17.webp",
+    "thumbnail": "/images/bible/thumbnails/path-17.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "path-18",
+    "label": "길 18",
+    "category": "path",
+    "colors": [
+      "hsl(110.78032392915338,30%,29.413461688905954%)",
+      "hsl(135.78032392915338,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/path-18.webp",
+    "thumbnail": "/images/bible/thumbnails/path-18.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "path-19",
+    "label": "길 19",
+    "category": "path",
+    "colors": [
+      "hsl(112.71309870108962,30%,32.81085761729628%)",
+      "hsl(137.71309870108962,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/path-19.webp",
+    "thumbnail": "/images/bible/thumbnails/path-19.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "path-20",
+    "label": "길 20",
+    "category": "path",
+    "colors": [
+      "hsl(86.64587347302586,30%,36.2082535456866%)",
+      "hsl(111.64587347302586,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/path-20.webp",
+    "thumbnail": "/images/bible/thumbnails/path-20.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "flowers-01",
+    "label": "들꽃 01",
+    "category": "flowers",
+    "colors": [
+      "hsl(311.7601973544806,30%,34.476301471702754%)",
+      "hsl(336.7601973544806,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/flowers-01.webp",
+    "thumbnail": "/images/bible/thumbnails/flowers-01.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "flowers-02",
+    "label": "들꽃 02",
+    "category": "flowers",
+    "colors": [
+      "hsl(313.69297212641686,30%,37.87369740009308%)",
+      "hsl(338.69297212641686,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/flowers-02.webp",
+    "thumbnail": "/images/bible/thumbnails/flowers-02.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "flowers-03",
+    "label": "들꽃 03",
+    "category": "flowers",
+    "colors": [
+      "hsl(315.6257468983531,30%,29.271093328483403%)",
+      "hsl(340.6257468983531,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/flowers-03.webp",
+    "thumbnail": "/images/bible/thumbnails/flowers-03.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "flowers-04",
+    "label": "들꽃 04",
+    "category": "flowers",
+    "colors": [
+      "hsl(317.55852167028934,30%,32.66848925687373%)",
+      "hsl(342.55852167028934,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/flowers-04.webp",
+    "thumbnail": "/images/bible/thumbnails/flowers-04.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "flowers-05",
+    "label": "들꽃 05",
+    "category": "flowers",
+    "colors": [
+      "hsl(319.4912964422256,30%,36.06588518526405%)",
+      "hsl(344.4912964422256,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/flowers-05.webp",
+    "thumbnail": "/images/bible/thumbnails/flowers-05.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "flowers-06",
+    "label": "들꽃 06",
+    "category": "flowers",
+    "colors": [
+      "hsl(321.4240712141618,30%,39.463281113654375%)",
+      "hsl(346.4240712141618,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/flowers-06.webp",
+    "thumbnail": "/images/bible/thumbnails/flowers-06.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "flowers-07",
+    "label": "들꽃 07",
+    "category": "flowers",
+    "colors": [
+      "hsl(323.35684598609805,30%,30.8606770420447%)",
+      "hsl(348.35684598609805,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/flowers-07.webp",
+    "thumbnail": "/images/bible/thumbnails/flowers-07.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "flowers-08",
+    "label": "들꽃 08",
+    "category": "flowers",
+    "colors": [
+      "hsl(325.2896207580343,30%,34.25807297043502%)",
+      "hsl(350.2896207580343,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/flowers-08.webp",
+    "thumbnail": "/images/bible/thumbnails/flowers-08.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "flowers-09",
+    "label": "들꽃 09",
+    "category": "flowers",
+    "colors": [
+      "hsl(327.2223955299705,30%,37.65546889882535%)",
+      "hsl(352.2223955299705,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/flowers-09.webp",
+    "thumbnail": "/images/bible/thumbnails/flowers-09.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "flowers-10",
+    "label": "들꽃 10",
+    "category": "flowers",
+    "colors": [
+      "hsl(329.15517030190676,30%,29.05286482721567%)",
+      "hsl(354.15517030190676,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/flowers-10.webp",
+    "thumbnail": "/images/bible/thumbnails/flowers-10.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "flowers-11",
+    "label": "들꽃 11",
+    "category": "flowers",
+    "colors": [
+      "hsl(331.087945073843,30%,32.450260755605996%)",
+      "hsl(356.087945073843,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/flowers-11.webp",
+    "thumbnail": "/images/bible/thumbnails/flowers-11.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "flowers-12",
+    "label": "들꽃 12",
+    "category": "flowers",
+    "colors": [
+      "hsl(333.02071984577924,30%,35.84765668399632%)",
+      "hsl(358.02071984577924,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/flowers-12.webp",
+    "thumbnail": "/images/bible/thumbnails/flowers-12.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "flowers-13",
+    "label": "들꽃 13",
+    "category": "flowers",
+    "colors": [
+      "hsl(306.9534946177155,30%,39.245052612386644%)",
+      "hsl(331.9534946177155,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/flowers-13.webp",
+    "thumbnail": "/images/bible/thumbnails/flowers-13.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "flowers-14",
+    "label": "들꽃 14",
+    "category": "flowers",
+    "colors": [
+      "hsl(308.8862693896517,30%,30.642448540776968%)",
+      "hsl(333.8862693896517,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/flowers-14.webp",
+    "thumbnail": "/images/bible/thumbnails/flowers-14.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "flowers-15",
+    "label": "들꽃 15",
+    "category": "flowers",
+    "colors": [
+      "hsl(310.81904416158795,30%,34.03984446916729%)",
+      "hsl(335.81904416158795,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/flowers-15.webp",
+    "thumbnail": "/images/bible/thumbnails/flowers-15.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "flowers-16",
+    "label": "들꽃 16",
+    "category": "flowers",
+    "colors": [
+      "hsl(312.7518189335242,30%,37.437240397557616%)",
+      "hsl(337.7518189335242,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/flowers-16.webp",
+    "thumbnail": "/images/bible/thumbnails/flowers-16.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "flowers-17",
+    "label": "들꽃 17",
+    "category": "flowers",
+    "colors": [
+      "hsl(314.68459370546043,30%,28.83463632594794%)",
+      "hsl(339.68459370546043,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/flowers-17.webp",
+    "thumbnail": "/images/bible/thumbnails/flowers-17.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "flowers-18",
+    "label": "들꽃 18",
+    "category": "flowers",
+    "colors": [
+      "hsl(316.61736847739667,30%,32.232032254338264%)",
+      "hsl(341.61736847739667,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/flowers-18.webp",
+    "thumbnail": "/images/bible/thumbnails/flowers-18.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "flowers-19",
+    "label": "들꽃 19",
+    "category": "flowers",
+    "colors": [
+      "hsl(318.5501432493329,30%,35.62942818272859%)",
+      "hsl(343.5501432493329,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/flowers-19.webp",
+    "thumbnail": "/images/bible/thumbnails/flowers-19.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "flowers-20",
+    "label": "들꽃 20",
+    "category": "flowers",
+    "colors": [
+      "hsl(320.48291802126914,30%,39.02682411111891%)",
+      "hsl(345.48291802126914,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/flowers-20.webp",
+    "thumbnail": "/images/bible/thumbnails/flowers-20.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "light-01",
+    "label": "빛 01",
+    "category": "light",
+    "colors": [
+      "hsl(44.69486792944372,30%,28.70721166115254%)",
+      "hsl(69.69486792944372,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/light-01.webp",
+    "thumbnail": "/images/bible/thumbnails/light-01.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "light-02",
+    "label": "빛 02",
+    "category": "light",
+    "colors": [
+      "hsl(46.627642701379955,30%,32.104607589542866%)",
+      "hsl(71.62764270137995,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/light-02.webp",
+    "thumbnail": "/images/bible/thumbnails/light-02.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "light-03",
+    "label": "빛 03",
+    "category": "light",
+    "colors": [
+      "hsl(48.56041747331619,30%,35.50200351793319%)",
+      "hsl(73.56041747331619,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/light-03.webp",
+    "thumbnail": "/images/bible/thumbnails/light-03.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "light-04",
+    "label": "빛 04",
+    "category": "light",
+    "colors": [
+      "hsl(50.49319224525243,30%,38.899399446323514%)",
+      "hsl(75.49319224525243,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/light-04.webp",
+    "thumbnail": "/images/bible/thumbnails/light-04.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "light-05",
+    "label": "빛 05",
+    "category": "light",
+    "colors": [
+      "hsl(52.42596701718867,30%,30.296795374713838%)",
+      "hsl(77.42596701718867,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/light-05.webp",
+    "thumbnail": "/images/bible/thumbnails/light-05.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "light-06",
+    "label": "빛 06",
+    "category": "light",
+    "colors": [
+      "hsl(26.358741789124906,30%,33.69419130310416%)",
+      "hsl(51.358741789124906,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/light-06.webp",
+    "thumbnail": "/images/bible/thumbnails/light-06.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "light-07",
+    "label": "빛 07",
+    "category": "light",
+    "colors": [
+      "hsl(28.291516561061144,30%,37.091587231494486%)",
+      "hsl(53.291516561061144,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/light-07.webp",
+    "thumbnail": "/images/bible/thumbnails/light-07.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "light-08",
+    "label": "빛 08",
+    "category": "light",
+    "colors": [
+      "hsl(30.22429133299738,30%,28.48898315988481%)",
+      "hsl(55.22429133299738,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/light-08.webp",
+    "thumbnail": "/images/bible/thumbnails/light-08.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "light-09",
+    "label": "빛 09",
+    "category": "light",
+    "colors": [
+      "hsl(32.15706610493362,30%,31.886379088275135%)",
+      "hsl(57.15706610493362,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/light-09.webp",
+    "thumbnail": "/images/bible/thumbnails/light-09.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "light-10",
+    "label": "빛 10",
+    "category": "light",
+    "colors": [
+      "hsl(34.08984087686986,30%,35.28377501666546%)",
+      "hsl(59.08984087686986,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/light-10.webp",
+    "thumbnail": "/images/bible/thumbnails/light-10.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "light-11",
+    "label": "빛 11",
+    "category": "light",
+    "colors": [
+      "hsl(36.022615648806095,30%,38.68117094505578%)",
+      "hsl(61.022615648806095,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/light-11.webp",
+    "thumbnail": "/images/bible/thumbnails/light-11.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "light-12",
+    "label": "빛 12",
+    "category": "light",
+    "colors": [
+      "hsl(37.95539042074233,30%,30.078566873446107%)",
+      "hsl(62.95539042074233,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/light-12.webp",
+    "thumbnail": "/images/bible/thumbnails/light-12.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "light-13",
+    "label": "빛 13",
+    "category": "light",
+    "colors": [
+      "hsl(39.88816519267857,30%,33.47596280183643%)",
+      "hsl(64.88816519267857,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/light-13.webp",
+    "thumbnail": "/images/bible/thumbnails/light-13.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "light-14",
+    "label": "빛 14",
+    "category": "light",
+    "colors": [
+      "hsl(41.82093996461481,30%,36.873358730226755%)",
+      "hsl(66.82093996461481,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/light-14.webp",
+    "thumbnail": "/images/bible/thumbnails/light-14.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "light-15",
+    "label": "빛 15",
+    "category": "light",
+    "colors": [
+      "hsl(43.753714736551046,30%,28.27075465861708%)",
+      "hsl(68.75371473655105,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/light-15.webp",
+    "thumbnail": "/images/bible/thumbnails/light-15.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "light-16",
+    "label": "빛 16",
+    "category": "light",
+    "colors": [
+      "hsl(45.686489508487284,30%,31.668150587007403%)",
+      "hsl(70.68648950848728,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/light-16.webp",
+    "thumbnail": "/images/bible/thumbnails/light-16.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "light-17",
+    "label": "빛 17",
+    "category": "light",
+    "colors": [
+      "hsl(47.61926428042352,30%,35.06554651539773%)",
+      "hsl(72.61926428042352,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/light-17.webp",
+    "thumbnail": "/images/bible/thumbnails/light-17.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "light-18",
+    "label": "빛 18",
+    "category": "light",
+    "colors": [
+      "hsl(49.55203905235976,30%,38.46294244378805%)",
+      "hsl(74.55203905235976,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/light-18.webp",
+    "thumbnail": "/images/bible/thumbnails/light-18.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "light-19",
+    "label": "빛 19",
+    "category": "light",
+    "colors": [
+      "hsl(51.484813824296,30%,29.860338372178376%)",
+      "hsl(76.484813824296,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/light-19.webp",
+    "thumbnail": "/images/bible/thumbnails/light-19.webp",
+    "text": "#fffdf5"
+  },
+  {
+    "id": "light-20",
+    "label": "빛 20",
+    "category": "light",
+    "colors": [
+      "hsl(53.417588596232235,30%,33.2577343005687%)",
+      "hsl(78.41758859623224,35%,66%)"
+    ],
+    "image": "/images/bible/illustrations/light-20.webp",
+    "thumbnail": "/images/bible/thumbnails/light-20.webp",
+    "text": "#fffdf5"
+  }
+]
