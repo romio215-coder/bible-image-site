@@ -1,5 +1,9 @@
 node_modules/
 .next/
+dist/
+.wrangler/
+.sites-runtime/
+*.tar.gz
 out/
 .npm-cache/
 .font-tools/

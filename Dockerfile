@@ -6,7 +6,7 @@ COPY . .
 ARG NEXT_PUBLIC_SITE_URL
 ENV NEXT_PUBLIC_SITE_URL=$NEXT_PUBLIC_SITE_URL
 ENV STANDALONE=1
-RUN npm run build
+RUN npm run build:next
 
 FROM node:24-alpine AS runner
 WORKDIR /app

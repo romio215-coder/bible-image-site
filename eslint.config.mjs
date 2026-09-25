@@ -6,6 +6,8 @@ export default defineConfig([
   ...nextTs,
   globalIgnores([
     ".next/**",
+    "dist/**",
+    ".wrangler/**",
     "next-env.d.ts",
     ".npm-cache/**",
     ".font-tools/**",

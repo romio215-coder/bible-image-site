@@ -4,6 +4,8 @@ Next.js 16.3.5 App Router · React · TypeScript · Tailwind CSS 4 기반 성경
 
 ## 실행
 
+Sites 호스팅용 빌드는 `npm run build`, 일반 Next.js/Node용 빌드는 `npm run build:next`입니다. `npm run start`와 기존 UI 테스트는 Next.js 빌드를 사용합니다. Sites 배포는 Vinext와 Cloudflare Workers 호환 출력을 사용하며 원래 Next.js 개발 명령도 유지합니다.
+
 Node.js 20.9 이상이 필요하며 Node.js 24.12.0으로 검증했습니다.
 
 ```sh
