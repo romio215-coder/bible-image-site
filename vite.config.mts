@@ -12,7 +12,7 @@ export default defineConfig(async () => {
     json: { stringify: true },
     plugins: [
       vinext(),
-      cloudflare({ viteEnvironment: { name: "rsc", childEnvironments: ["ssr"] }, inspectorPort: false,
+      cloudflare({ configPath: "wrangler.worker.jsonc", viteEnvironment: { name: "rsc", childEnvironments: ["ssr"] }, inspectorPort: false,
         config: { name: "wordlight-bible", main: "vinext/server/fetch-handler", compatibility_date: "2026-05-15", compatibility_flags: ["nodejs_compat"] } }),
       { name: "wordlight-hosting-manifest", async closeBundle() {
         await mkdir("dist/.openai", { recursive: true });

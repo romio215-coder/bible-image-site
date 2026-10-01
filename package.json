@@ -4,7 +4,9 @@
   "private": true,
   "scripts": {
     "dev": "next dev --hostname 127.0.0.1",
-    "build": "node scripts/build-sites.mjs",
+    "build": "node scripts/build-pages.mjs",
+    "build:sites": "node scripts/build-sites.mjs",
+    "preview:pages": "wrangler pages dev .pages --config wrangler.jsonc --port 3001",
     "start": "next start --hostname 127.0.0.1",
     "lint": "eslint .",
     "typecheck": "next typegen && tsc --noEmit",

@@ -15,7 +15,7 @@ function copyTree(from, to) {
 const staged = process.platform === 'win32' && /[^\x00-\x7f]/.test(root);
 const directory = staged ? mkdtempSync(join(tmpdir(), 'wordlight-sites-')) : root;
 if (staged) {
-  for (const entry of ['src', 'public', '.openai', 'package.json', 'package-lock.json', 'vite.config.mts', 'next.config.ts', 'tsconfig.json', 'postcss.config.mjs']) {
+  for (const entry of ['src', 'public', '.openai', 'package.json', 'package-lock.json', 'vite.config.mts', 'wrangler.worker.jsonc', 'next.config.ts', 'tsconfig.json', 'postcss.config.mjs']) {
     copyTree(join(root, entry), join(directory, entry));
   }
   symlinkSync(join(root, 'node_modules'), join(directory, 'node_modules'), 'junction');

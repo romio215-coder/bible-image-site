@@ -1,0 +1,10 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "wordlight-bible",
+  "pages_build_output_dir": ".pages",
+  "compatibility_date": "2026-09-30",
+  "compatibility_flags": ["nodejs_compat"],
+  "vars": {
+    "NEXT_PUBLIC_SITE_URL": "https://wordlight-bible.pages.dev"
+  }
+}
