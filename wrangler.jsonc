@@ -5,6 +5,6 @@
   "compatibility_date": "2026-09-30",
   "compatibility_flags": ["nodejs_compat"],
   "vars": {
-    "NEXT_PUBLIC_SITE_URL": "https://wordlight-bible.pages.dev"
+    "NEXT_PUBLIC_SITE_URL": "https://bible.huchu.xyz"
   }
 }

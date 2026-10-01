@@ -112,7 +112,7 @@ GitHub Actions의 `.github/workflows/ci.yml`은 main 푸시와 PR에서 데이�
 구체적인 연결 조건과 현재 콘텐츠 범위는 [남은 작업](docs/REMAINING.md)에 정리했습니다.
 
 - Supabase 계정, 로그인 및 실제 기기 간 자동 동기화: 미연결. RLS SQL·환경변수 예시·연결 절차만 준비했습니다.
-- GitHub `main` → Cloudflare Pages 자동 배포를 연결했습니다. 기본 주소는 `https://wordlight-bible.pages.dev`이며 사용자 지정 도메인은 연결하지 않습니다. [배포 안내](docs/CLOUDFLARE-PAGES.md)를 참고하세요.
+- GitHub `main` → Cloudflare Pages 자동 배포를 연결했습니다. 기본 주소는 `https://wordlight-bible.pages.dev`이며 사용자 지정 도메인은 `https://bible.huchu.xyz`입니다. [배포 안내](docs/CLOUDFLARE-PAGES.md)를 참고하세요.
 - 실제 iPhone Safari 기기 테스트는 수행하지 않았습니다. 모바일 자동 테스트는 Edge의 iPhone 화면 크기 에뮬레이션입니다.
 - 기기 저장은 브라우저 데이터 삭제 시 사라집니다. 백업 기능을 이용하세요. 메모와 기록은 서버에 전송되지 않습니다.
 - PWA 오프라인 범위는 마지막 읽은 **한 장**입니다. 전체 검색과 새 장 읽기는 연결이 필요합니다.

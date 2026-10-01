@@ -8,7 +8,7 @@
 - 프레임워크 프리셋: 없음 (사용자 지정 빌드)
 - Node.js: 24
 - 기본 주소: https://wordlight-bible.pages.dev
-- 사용자 지정 도메인: 사용자 요청으로 연결하지 않음
+- 사용자 지정 도메인: https://bible.huchu.xyz
 
 기존 서버 렌더링을 유지하는 Pages advanced mode 배포입니다. `vinext`가 만든 서버 모듈은 `.pages/_worker.js/`에만 배치하고, 이미지·폰트·클라이언트 파일은 Pages 정적 자산으로 제공합니다. 검색, 날짜별 말씀, 임의의 장·절 주소를 정적 페이지 수 제한 없이 처리합니다.
 

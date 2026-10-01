@@ -5,7 +5,7 @@ import { resolve, join } from 'node:path';
 const root = process.cwd();
 const output = resolve(root, '.pages');
 if (output !== join(root, '.pages')) throw new Error('Invalid output directory');
-process.env.NEXT_PUBLIC_SITE_URL ||= 'https://wordlight-bible.pages.dev';
+process.env.NEXT_PUBLIC_SITE_URL ||= 'https://bible.huchu.xyz';
 const build = spawnSync(process.execPath, ['scripts/build-sites.mjs'], { stdio: 'inherit', env: process.env });
 if (build.status !== 0) process.exit(build.status || 1);
 

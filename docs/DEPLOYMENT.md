@@ -2,7 +2,7 @@
 
 ## 현재 배포 구조
 
-GitHub `romio215-coder/bible-image-site`의 `main`을 Cloudflare Pages `wordlight-bible` 프로젝트에 연결했습니다. `npm run build`는 Pages용 `.pages` 출력물을 생성합니다. 기본 주소는 `https://wordlight-bible.pages.dev`이며 사용자 지정 도메인은 연결하지 않습니다. 상세 설정은 [Cloudflare Pages 안내](CLOUDFLARE-PAGES.md)를 참고하세요.
+GitHub `romio215-coder/bible-image-site`의 `main`을 Cloudflare Pages `wordlight-bible` 프로젝트에 연결했습니다. `npm run build`는 Pages용 `.pages` 출력물을 생성합니다. 기본 주소는 `https://wordlight-bible.pages.dev`이며 사용자 지정 도메인은 `https://bible.huchu.xyz`입니다. 상세 설정은 [Cloudflare Pages 안내](CLOUDFLARE-PAGES.md)를 참고하세요.
 
 ## Sites 호스팅
 
