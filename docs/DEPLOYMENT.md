@@ -1,10 +1,14 @@
-# 계정 및 배포 연결 준비
+# 계정 및 배포
+
+## 현재 배포 구조
+
+GitHub `romio215-coder/bible-image-site`의 `main`을 Cloudflare Pages `wordlight-bible` 프로젝트에 연결했습니다. `npm run build`는 Pages용 `.pages` 출력물을 생성합니다. 기본 주소는 `https://wordlight-bible.pages.dev`이며 사용자 지정 도메인은 연결하지 않습니다. 상세 설정은 [Cloudflare Pages 안내](CLOUDFLARE-PAGES.md)를 참고하세요.
 
 ## Sites 호스팅
 
-후추 스튜디오와 같은 Sites 호스팅을 선택했습니다. 성경사이트만의 `.openai/hosting.json`으로 별도 등록하며 GitHub origin은 `bible-image-site`를 유지합니다. `npm run build`로 Worker와 공개 에셋을 생성합니다. Windows 한글 경로에서 발생하는 번들러 파일 복사 문제는 임시 영문 경로로 소스를 복사해 처리합니다. 일반 Node/Docker 배포는 `npm run build:next`를 사용합니다.
+기존 Sites 호스팅은 `.openai/hosting.json`으로 등록되어 있습니다. 기존 호환 빌드는 `npm run build:sites`를 사용하며 일반 Node/Docker 배포는 `npm run build:next`를 사용합니다.
 
-사용자 요청에 따라 현재 서비스는 **비회원 모드**입니다. Supabase 프로젝트와 호스팅은 생성하지 않았으며 실제 데이터 동기화나 외부 배포는 수행하지 않았습니다.
+사용자 요청에 따라 현재 서비스는 **비회원 모드**입니다. Supabase 프로젝트를 연결하지 않았으며 실제 기기 간 데이터 동기화는 구현하지 않았습니다.
 
 ## 배포
 

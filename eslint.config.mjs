@@ -7,6 +7,7 @@ export default defineConfig([
   globalIgnores([
     ".next/**",
     "dist/**",
+    ".pages/**",
     ".wrangler/**",
     "next-env.d.ts",
     ".npm-cache/**",
